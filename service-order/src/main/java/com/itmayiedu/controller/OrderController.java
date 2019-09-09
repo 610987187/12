@@ -20,7 +20,6 @@ public class OrderController {
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		System.out.println("bbbbbbbbbbbbbbbbbbbbb");
 		System.out.println("111111111111");
-		System.out.println("222222222222222");
 
 	}
 
