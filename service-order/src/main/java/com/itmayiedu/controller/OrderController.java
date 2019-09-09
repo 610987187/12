@@ -19,7 +19,6 @@ public class OrderController {
 		return orderMemberService.getOrderUserAll();
 		System.out.println("1111111111111111");
 		System.out.println("222222222222222222222222");
-		System.out.println("333333333333333333333");
 
 	}
 
