@@ -17,7 +17,7 @@ public class OrderController {
 	public List<String> getOrderUserAll() {
 		System.out.println("订单服务开始调用会员服务");
 		return orderMemberService.getOrderUserAll();
-		
+
 	}
 
 }
