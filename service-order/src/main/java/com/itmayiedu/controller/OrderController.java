@@ -17,12 +17,7 @@ public class OrderController {
 	public List<String> getOrderUserAll() {
 		System.out.println("订单服务开始调用会员服务");
 		return orderMemberService.getOrderUserAll();
-		System.out.println("1111111111111111");
-		System.out.println("222222222222222222222222");
-		System.out.println("333333333333333333333");
-		System.out.println("6666666666666666");
-		System.out.println("7777777777777");
-		System.out.println("qdddddddddddddddddddddddddd");
+        System.out.println("aaaaaaaaaaaaa");
 	}
 
 }
