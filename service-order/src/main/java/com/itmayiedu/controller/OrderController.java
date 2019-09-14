@@ -18,6 +18,8 @@ public class OrderController {
 		System.out.println("订单服务开始调用会员服务");
 		return orderMemberService.getOrderUserAll();
 		System.out.println("5555555555555");
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaa");
+        System.out.println("333333333333");
 	}
 
 }
